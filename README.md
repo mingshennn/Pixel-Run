@@ -19,7 +19,11 @@ Built with Unreal Engine 5 using Blueprints.
 ## How to Play
 Use the keyboard to move your character through the level. Avoid obstacles, collect power-ups and reach the door to win!
 > A / Left Key - Move Left
+>
 > D / Right Key - Move Right
+>
 > Spacebar - Jump
+>
 > E - Interact
+>
 > P / ESC - Pause Menu
