@@ -4,7 +4,7 @@
 
 ## Preview
 <img src="images/Level1.png" alt="Level 1" width="1000"/>
-<img src="images/Level2.jpg" alt="Level 2" width="1000"/>
+<img src="images/Level2.png" alt="Level 2" width="1000"/>
 
 ## Features
 - Level-based gameplay with a clear goal: Reach the door
